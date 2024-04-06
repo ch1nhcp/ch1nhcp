@@ -1,7 +1,9 @@
 Hi! My name is Chinh 😄
 ========================================================================================================================================
 
-🌍  I am a Fullstack Developer based in Hanoi, Vietnam.
+🧑‍💻 I am a full-stack developer currently chilling on the corner of logic and creativity. 
+🇻🇳 I am based in Hanoi and enjoy building engaging things with code.
+✨ Lifelong learner, tech lover.
 <br/>
 
 ### Skills
