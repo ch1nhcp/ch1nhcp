@@ -2,7 +2,9 @@ Hi! My name is Chinh 😄
 ========================================================================================================================================
 
 🧑‍💻 I am a full-stack developer currently chilling on the corner of logic and creativity. 
+<br/>
 🇻🇳 I am based in Hanoi and enjoy building engaging things with code.
+<br/>
 ✨ Lifelong learner, tech lover.
 <br/>
 
